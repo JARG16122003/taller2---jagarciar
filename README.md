@@ -1,1 +1,7 @@
-Hola este repositorio es para subir el taller 2 de front - end intermedio - Julian Garcia
+Este proyecto es en typescript
+
+para compilar y ejecutar bel proyecto siga las siguentes instrucciones
+
+1. realice el git clone del proyecto
+2. npm install
+3. ejecute el comando tsc para compilar los archivos tsc y crear la carpeta dist/
